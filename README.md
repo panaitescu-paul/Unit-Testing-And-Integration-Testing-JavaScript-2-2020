@@ -27,9 +27,9 @@ Unit tests to verify the Valid cases, Invalid cases, and Exceptions using JavaSc
 
 
 <p align="center">
-  <img width="45%" height="45%" src="https://github.com/panaitescu-paul/Unit-Testing-and-Integration-Testing-2-2020/blob/master/screenshots/01.png">
+  <img width="45%" height="45%" src="https://github.com/panaitescu-paul/Unit-Testing-and-Integration-Testing-2-2020/blob/master/screenshots/s1.png">
 </p>
 
 <p align="center">
-  <img width="60%" height="60%" src="https://github.com/panaitescu-paul/Unit-Testing-and-Integration-Testing-2-2020/blob/master/screenshots/01.png">
+  <img width="60%" height="60%" src="https://github.com/panaitescu-paul/Unit-Testing-and-Integration-Testing-2-2020/blob/master/screenshots/s1.png">
 </p>
