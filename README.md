@@ -3,7 +3,7 @@ Unit tests to verify the Valid cases, Invalid cases, and Exceptions using JavaSc
 
 ## Features:
 - ***Data providers***
-- Test for ***Equivalence Partitioning*** (Valid and Invalid Partitions)
+- Test for ***Equivalence Partitioning*** (both Valid and Invalid Partitions)
 - Test for ***Boundary Values***
 
 ## Content:
