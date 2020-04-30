@@ -1,5 +1,6 @@
 # Unit Testing and Integration Testing
-Unit tests to verify the Valid cases, Invalid cases, and Exceptions using JavaScript, Mocha, and Chai.
+
+***Unit tests*** to verify the ***Valid cases, Invalid cases, and Exceptions*** using JavaScript, Mocha, and Chai.
 
 ## Features:
 - ***Data providers***
@@ -19,17 +20,10 @@ Unit tests to verify the Valid cases, Invalid cases, and Exceptions using JavaSc
 ## Unit Tests Overview:
 <br/>
 
-![alt text](https://github.com/panaitescu-paul/Unit-Testing-and-Integration-Testing-2-2020/blob/master/screenshots/s1.png)
-![alt text](https://github.com/panaitescu-paul/Unit-Testing-and-Integration-Testing-2-2020/blob/master/screenshots/s2.png)
-![alt text](https://github.com/panaitescu-paul/Unit-Testing-and-Integration-Testing-2-2020/blob/master/screenshots/s3.png)
-![alt text](https://github.com/panaitescu-paul/Unit-Testing-and-Integration-Testing-2-2020/blob/master/screenshots/s4.png)
-![alt text](https://github.com/panaitescu-paul/Unit-Testing-and-Integration-Testing-2-2020/blob/master/screenshots/s5.png)
-
-
-<p align="center">
-  <img width="45%" height="45%" src="https://github.com/panaitescu-paul/Unit-Testing-and-Integration-Testing-2-2020/blob/master/screenshots/s1.png">
-</p>
-
 <p align="center">
   <img width="60%" height="60%" src="https://github.com/panaitescu-paul/Unit-Testing-and-Integration-Testing-2-2020/blob/master/screenshots/s1.png">
+  <img width="60%" height="60%" src="https://github.com/panaitescu-paul/Unit-Testing-and-Integration-Testing-2-2020/blob/master/screenshots/s2.png">
+  <img width="60%" height="60%" src="https://github.com/panaitescu-paul/Unit-Testing-and-Integration-Testing-2-2020/blob/master/screenshots/s3.png">
+  <img width="60%" height="60%" src="https://github.com/panaitescu-paul/Unit-Testing-and-Integration-Testing-2-2020/blob/master/screenshots/s4.png">
+  <img width="60%" height="60%" src="https://github.com/panaitescu-paul/Unit-Testing-and-Integration-Testing-2-2020/blob/master/screenshots/s5.png">
 </p>
